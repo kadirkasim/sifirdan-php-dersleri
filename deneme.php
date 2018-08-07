@@ -1,1 +1,5 @@
-yeni icerik
+<?php
+
+  $renk2 = "Siyah";
+
+ ?>
